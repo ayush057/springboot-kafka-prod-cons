@@ -1,0 +1,42 @@
+# ========== Java ==========
+*.class
+*.jar
+*.war
+*.ear
+
+# ========== Maven ==========
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# ========== Gradle (if ever used) ==========
+build/
+.gradle/
+
+# ========== Logs ==========
+*.log
+
+# ========== IntelliJ IDEA ==========
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+
+# ========== OS Generated Files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Misc ==========
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ========== Environment or secrets (if you create any) ==========
+.env
+.env.*
+
+# ========== Node (if any frontend folder exists) ==========
+node_modules/
+dist/
