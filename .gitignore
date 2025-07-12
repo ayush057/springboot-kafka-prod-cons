@@ -40,3 +40,4 @@ Thumbs.db
 # ========== Node (if any frontend folder exists) ==========
 node_modules/
 dist/
+
